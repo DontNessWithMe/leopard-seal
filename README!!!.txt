@@ -20,7 +20,6 @@ Troubleshooting:
 Q: When I double-click the file, it doesn't run! What do I do?
 A: Right-click the file, click properties in the menu that appears, then go to the permissions tab, check "Allow executing file as program", and set access to all.
 
-
 Changelog:
 [V1.0.0]
 Added:
