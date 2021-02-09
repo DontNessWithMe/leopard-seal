@@ -1,4 +1,4 @@
-#Leopard-Seal
+#leopard-seal
 
 Leopard Seal is a malware that has a little fun destroying any linux machine.
 
