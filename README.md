@@ -1,4 +1,5 @@
-#Leopard Seal
+#Leopard-Seal
+
 Leopard Seal is a malware that has a little fun destroying any linux machine.
 
 DISCLAIMER: DontNessWithMe is not reponsible for any damage caused by Leopard Seal. Leopard Seal is for educational and recreational purposes only.
