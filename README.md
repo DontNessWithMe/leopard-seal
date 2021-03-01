@@ -23,6 +23,15 @@ Q: When I double-click the file, it doesn't run! What do I do?
 A: Right-click the file, click properties in the menu that appears, then go to the permissions tab, check "Allow executing file as program", and set access to all.
 
 Changelog:
+[V1.1.0]
+Added:
+none
+Changed:
+Changed Leopard Seal Safe to delete the boot folder instead of shadow.
+Removed:
+none
+Notes:
+Machines affected by Leopard Seal Safe will now not boot instead of being stuck on the login screen.
 [V1.0.0]
 Added:
 none
